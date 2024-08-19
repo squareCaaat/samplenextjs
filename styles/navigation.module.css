@@ -1,0 +1,8 @@
+.nav {
+    background-color: beige;
+    padding: 50px 100px;
+}
+
+.list {
+    display: flex;
+}
